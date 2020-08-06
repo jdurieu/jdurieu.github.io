@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jdurieu.be/posts/</loc>
+    <loc>jdurieu.github.io/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.jdurieu.be/resume/resume/</loc>
+    <loc>jdurieu.github.io/resume/resume/</loc>
   </url>
   
   <url>
-    <loc>https://www.jdurieu.be/categories/</loc>
+    <loc>jdurieu.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.jdurieu.be/</loc>
+    <loc>jdurieu.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://www.jdurieu.be/resume/</loc>
+    <loc>jdurieu.github.io/resume/</loc>
   </url>
   
   <url>
-    <loc>https://www.jdurieu.be/tags/</loc>
+    <loc>jdurieu.github.io/tags/</loc>
   </url>
   
 </urlset>
